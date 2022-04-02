@@ -1,7 +1,5 @@
 # Quick Cab
-Figma design source: https://www.figma.com/community/file/1084774441108241736
-
-![Alt text](/screenshots/home.png?raw=true "Home")<br>
+<img src="/screenshots/home.png?pick=true" width="222" height="480">
 <img src="/screenshots/signup.png?pick=true" width="222" height="480">
 <img src="/screenshots/pick.png?pick=true" width="222" height="480">
 <img src="/screenshots/confirm.png?pick=true" width="222" height="480">
@@ -9,10 +7,14 @@ Figma design source: https://www.figma.com/community/file/1084774441108241736
 <img src="/screenshots/profile.png?pick=true" width="222" height="480">
 
 <br><br>
-A new Flutter project.
- 
+Design by: <a href="https://www.figma.com/@OmarUIUX">Omar Yassir</a>
+<br>
+Design file: https://www.figma.com/community/file/1084774441108241736
+<br>
 
-A new Flutter project.
+
+Goole Maps may not work at work because you have to use your own API for geolocations, inside AndroidManifest.xml
+
 
 ## Getting Started
 

@@ -1,7 +1,6 @@
 # Quick Cab
 <img src="/screenshots/home.png?pick=true" width="222" height="480">
-<img src="/screenshots/signup.png?pick=true" width="222" height="480">
-<img src="/screenshots/pick.png?pick=true" width="222" height="480">
+<img src="/screenshots/signup.png?pick=true" width="222" height="480"><img src="/screenshots/pick.png?pick=true" width="222" height="480">
 <img src="/screenshots/confirm.png?pick=true" width="222" height="480">
 <img src="/screenshots/otw.png?raw=true" width="222" height="480">
 <img src="/screenshots/profile.png?pick=true" width="222" height="480">

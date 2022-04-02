@@ -1,4 +1,5 @@
-# quick_cab
+# Quick Cab
+Figma design source: https://www.figma.com/community/file/1084774441108241736
 
 ![Alt text](/screenshots/home.png?raw=true "Home")<br>
 <img src="/screenshots/signup.png?pick=true" width="222" height="480">
